@@ -1,0 +1,529 @@
+{
+    "recipes": [
+
+      {
+        "name": "Broccoli and Mushroom Stir-Fry",
+        "ingredients": [
+          "2 cups broccoli florets",
+          "1 cup sliced mushrooms",
+          "1 onion, sliced",
+          "1 green bell pepper, sliced",
+          "2 tbsp soy sauce",
+          "2 tbsp olive oil",
+          "1 tbsp lemon juice",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Heat olive oil in a pan over medium-high heat.",
+          "Add onions and cook until translucent.",
+          "Add broccoli and mushrooms, stir-fry for 5-7 minutes.",
+          "Add green bell pepper and cook for another 3-4 minutes.",
+          "Stir in soy sauce and lemon juice, season with salt and pepper.",
+          "Serve hot."
+        ]
+      },
+      {
+        "name": "Strawberry and Pomegranate Fruit Salad",
+        "ingredients": [
+          "1 cup strawberries, sliced",
+          "1 pomegranate, seeds",
+          "1 red apple, chopped",
+          "1 green apple, chopped",
+          "1 banana, sliced",
+          "Juice of 1 orange"
+        ],
+        "instructions": [
+          "In a large bowl, combine strawberries, pomegranate seeds, apples, and banana.",
+          "Pour orange juice over the fruit and toss gently.",
+          "Serve immediately or chilled."
+        ]
+      },
+      {
+        "name": "Salmon with Citrus Glaze",
+        "ingredients": [
+          "2 salmon fillets",
+          "Juice of 1 orange",
+          "Juice of 1 lemon",
+          "2 tbsp olive oil",
+          "1 tbsp honey",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Preheat oven to 375°F (190°C).",
+          "In a small bowl, whisk together orange juice, lemon juice, olive oil, honey, salt, and pepper.",
+          "Place salmon fillets on a baking sheet and brush with the citrus glaze.",
+          "Bake for 15-20 minutes or until salmon is cooked through.",
+          "Serve with additional glaze drizzled on top."
+        ]
+      },
+      {
+        "name": "Mushroom and Spinach Omelette",
+        "ingredients": [
+          "2 eggs",
+          "1/2 cup sliced mushrooms",
+          "1 cup spinach",
+          "1/4 cup shredded cheese",
+          "Salt and pepper to taste",
+          "1 tbsp olive oil"
+        ],
+        "instructions": [
+          "Heat olive oil in a non-stick pan over medium heat.",
+          "Add mushrooms and cook until softened.",
+          "Add spinach and cook until wilted.",
+          "Beat eggs with salt and pepper, then pour into the pan.",
+          "Cook until eggs are set, then sprinkle with cheese.",
+          "Fold the omelette and serve hot."
+        ]
+      },
+      {
+        "name": "Fruit and Yogurt Parfait",
+        "ingredients": [
+          "1 cup yogurt",
+          "1/2 cup strawberries, sliced",
+          "1 banana, sliced",
+          "1/2 cup pomegranate seeds",
+          "1 tbsp honey"
+        ],
+        "instructions": [
+          "In a glass or bowl, layer yogurt, strawberries, banana, and pomegranate seeds.",
+          "Drizzle with honey.",
+          "Repeat layers if desired.",
+          "Serve immediately."
+        ]
+      },
+      {
+        "name": "Grilled Vegetable Skewers",
+        "ingredients": [
+          "1 yellow bell pepper, chopped",
+          "1 red bell pepper, chopped",
+          "1 green bell pepper, chopped",
+          "1 onion, chopped",
+          "1 zucchini, sliced",
+          "1 cup mushrooms, whole",
+          "2 tbsp olive oil",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Preheat grill to medium-high heat.",
+          "Thread bell peppers, onion, zucchini, and mushrooms onto skewers.",
+          "Brush with olive oil and season with salt and pepper.",
+          "Grill for 10-15 minutes, turning occasionally, until vegetables are tender and slightly charred.",
+          "Serve hot."
+        ]
+      },
+      {
+        "name": "Chicken and Broccoli Stir-Fry",
+        "ingredients": [
+          "1 chicken breast, sliced",
+          "2 cups broccoli florets",
+          "1 onion, sliced",
+          "1 green bell pepper, sliced",
+          "2 tbsp soy sauce",
+          "2 tbsp olive oil",
+          "1 tbsp lemon juice",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Heat olive oil in a pan over medium-high heat.",
+          "Add chicken slices and cook until browned.",
+          "Add onions and cook until translucent.",
+          "Add broccoli and green bell pepper, stir-fry for 5-7 minutes.",
+          "Stir in soy sauce and lemon juice, season with salt and pepper.",
+          "Serve hot."
+        ]
+      },
+      {
+        "name": "Lemon Garlic Salmon",
+        "ingredients": [
+          "2 salmon fillets",
+          "2 cloves garlic, minced",
+          "Juice of 1 lemon",
+          "2 tbsp olive oil",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Preheat oven to 375°F (190°C).",
+          "In a small bowl, combine minced garlic, lemon juice, olive oil, salt, and pepper.",
+          "Place salmon fillets on a baking sheet and brush with the garlic lemon mixture.",
+          "Bake for 15-20 minutes or until salmon is cooked through.",
+          "Serve hot."
+        ]
+      },
+      {
+        "name": "Chicken and Cabbage Stir-Fry",
+        "ingredients": [
+          "1 chicken breast, sliced",
+          "2 cups shredded cabbage",
+          "1 onion, sliced",
+          "1 yellow bell pepper, sliced",
+          "2 tbsp soy sauce",
+          "2 tbsp olive oil",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Heat olive oil in a pan over medium-high heat.",
+          "Add chicken slices and cook until browned.",
+          "Add onions and cook until translucent.",
+          "Add cabbage and yellow bell pepper, stir-fry for 5-7 minutes.",
+          "Stir in soy sauce and season with salt and pepper.",
+          "Serve hot."
+        ]
+      },
+      {
+        "name": "Orange and Strawberry Smoothie",
+        "ingredients": [
+          "1 cup orange juice",
+          "1 cup strawberries, hulled",
+          "1 banana, sliced",
+          "1/2 cup yogurt",
+          "1 tbsp honey"
+        ],
+        "instructions": [
+          "Combine orange juice, strawberries, banana, yogurt, and honey in a blender.",
+          "Blend until smooth.",
+          "Serve immediately."
+        ]
+      },
+      {
+        "name": "Grilled Chicken and Veggie Salad",
+        "ingredients": [
+          "1 chicken breast",
+          "1 head of lettuce",
+          "1 yellow bell pepper, sliced",
+          "1 red bell pepper, sliced",
+          "1 green bell pepper, sliced",
+          "1/2 cup cherry tomatoes",
+          "2 tbsp olive oil",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Grill chicken breast until fully cooked, then slice.",
+          "In a large bowl, combine chopped lettuce, bell peppers, and cherry tomatoes.",
+          "Add grilled chicken slices on top.",
+          "Drizzle with olive oil and season with salt and pepper.",
+          "Toss and serve."
+        ]
+      },
+      {
+        "name": "Strawberry and Spinach Smoothie",
+        "ingredients": [
+          "1 cup strawberries, hulled",
+          "1 cup spinach",
+          "1 banana, sliced",
+          "1 cup orange juice",
+          "1 tbsp honey"
+        ],
+        "instructions": [
+          "Combine strawberries, spinach, banana, orange juice, and honey in a blender.",
+          "Blend until smooth.",
+          "Serve immediately."
+        ]
+      },
+      {
+        "name": "Orange and Pomegranate Salad",
+        "ingredients": [
+          "1 pomegranate, seeds",
+          "2 oranges, segmented",
+          "1 red apple, chopped",
+          "1 green apple, chopped",
+          "2 cups spinach",
+          "Juice of 1 lemon",
+          "2 tbsp olive oil",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "In a large bowl, combine pomegranate seeds, orange segments, apples, and spinach.",
+          "In a small bowl, whisk together lemon juice, olive oil, salt, and pepper.",
+          "Pour dressing over the salad and toss to combine.",
+          "Serve immediately."
+        ]
+      },
+      {
+        "name": "Banana and Strawberry Smoothie",
+        "ingredients": [
+          "1 banana, sliced",
+          "1 cup strawberries, hulled",
+          "1 cup orange juice",
+          "1/2 cup yogurt",
+          "1 tbsp honey"
+        ],
+        "instructions": [
+          "Combine banana, strawberries, orange juice, yogurt, and honey in a blender.",
+          "Blend until smooth.",
+          "Serve immediately."
+        ]
+      },
+      {
+        "name": "Lemon Pepper Chicken",
+        "ingredients": [
+          "2 chicken breasts",
+          "Juice of 1 lemon",
+          "2 tbsp olive oil",
+          "1 tsp black pepper",
+          "Salt to taste"
+        ],
+        "instructions": [
+          "Preheat oven to 375°F (190°C).",
+          "In a small bowl, combine lemon juice, olive oil, black pepper, and salt.",
+          "Place chicken breasts on a baking sheet and brush with the lemon pepper mixture.",
+          "Bake for 25-30 minutes or until chicken is cooked through.",
+          "Serve hot."
+        ]
+      },
+      {
+        "name": "Grilled Salmon and Veggies",
+        "ingredients": [
+          "2 salmon fillets",
+          "1 lemon, sliced",
+          "1 yellow bell pepper, sliced",
+          "1 red bell pepper, sliced",
+          "1 green bell pepper, sliced",
+          "1/2 cup cherry tomatoes",
+          "2 tbsp olive oil",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Preheat grill to medium-high heat.",
+          "Season salmon fillets with salt and pepper.",
+          "Grill salmon fillets for 5-7 minutes on each side or until cooked through.",
+          "In a separate pan, grill bell peppers and cherry tomatoes with olive oil until tender.",
+          "Serve grilled salmon with grilled vegetables and lemon slices."
+        ]
+      },
+      {
+        "name": "Cabbage and Apple Slaw",
+        "ingredients": [
+          "2 cups shredded cabbage",
+          "1 red apple, julienned",
+          "1 green apple, julienned",
+          "Juice of 1 lemon",
+          "2 tbsp olive oil",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "In a large bowl, combine shredded cabbage and julienned apples.",
+          "In a small bowl, whisk together lemon juice, olive oil, salt, and pepper.",
+          "Pour dressing over the slaw and toss to combine.",
+          "Serve immediately."
+        ]
+      },
+      {
+        "name": "Broccoli and Chicken Casserole",
+        "ingredients": [
+          "2 chicken breasts, diced",
+          "2 cups broccoli florets",
+          "1 onion, chopped",
+          "1 yellow bell pepper, chopped",
+          "1/2 cup shredded cheese",
+          "1 cup cooked rice",
+          "2 tbsp olive oil",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Preheat oven to 375°F (190°C).",
+          "In a large pan, heat olive oil and cook chicken until browned.",
+          "Add onions, broccoli, and bell pepper, cook until vegetables are tender.",
+          "In a baking dish, combine cooked chicken and vegetables with cooked rice.",
+          "Top with shredded cheese.",
+          "Bake for 20-25 minutes or until cheese is melted and bubbly.",
+          "Serve hot."
+        ]
+      },
+      {
+        "name": "Grilled Chicken and Veggie Wrap",
+        "ingredients": [
+          "1 chicken breast",
+          "1 head of lettuce",
+          "1 yellow bell pepper, sliced",
+          "1 red bell pepper, sliced",
+          "1 green bell pepper, sliced",
+          "1/2 cup cherry tomatoes",
+          "2 tbsp olive oil",
+          "Salt and pepper to taste",
+          "4 large tortillas"
+        ],
+        "instructions": [
+          "Grill chicken breast until fully cooked, then slice.",
+          "In a large bowl, combine chopped lettuce, bell peppers, and cherry tomatoes.",
+          "Add grilled chicken slices and toss with olive oil, salt, and pepper.",
+          "Place mixture in tortillas and wrap tightly.",
+          "Serve immediately."
+        ]
+      },
+      {
+        "name": "Orange Pomegranate Smoothie",
+        "ingredients": [
+          "1 cup pomegranate seeds",
+          "1 cup orange juice",
+          "1 banana, sliced",
+          "1/2 cup yogurt",
+          "1 tbsp honey"
+        ],
+        "instructions": [
+          "Combine pomegranate seeds, orange juice, banana, yogurt, and honey in a blender.",
+          "Blend until smooth.",
+          "Serve immediately."
+        ]
+      },
+      {
+        "name": "Grilled Vegetable Salad",
+        "ingredients": [
+          "1 head of lettuce",
+          "1 yellow bell pepper, sliced",
+          "1 red bell pepper, sliced",
+          "1 green bell pepper, sliced",
+          "1/2 cup cherry tomatoes",
+          "2 tbsp olive oil",
+          "Salt and pepper to taste",
+          "Juice of 1 lemon"
+        ],
+        "instructions": [
+          "Preheat grill to medium-high heat.",
+          "Grill bell peppers and cherry tomatoes with olive oil until tender.",
+          "In a large bowl, combine grilled vegetables with chopped lettuce.",
+          "Drizzle with lemon juice, olive oil, and season with salt and pepper.",
+          "Toss and serve."
+        ]
+      },
+      {
+        "name": "Chicken and Spinach Salad",
+        "ingredients": [
+          "1 chicken breast",
+          "2 cups spinach",
+          "1/2 cup cherry tomatoes, halved",
+          "1 yellow bell pepper, sliced",
+          "Juice of 1 lemon",
+          "2 tbsp olive oil",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Grill chicken breast until fully cooked, then slice.",
+          "In a large bowl, combine spinach, cherry tomatoes, and yellow bell pepper.",
+          "Add grilled chicken slices on top.",
+          "Drizzle with lemon juice, olive oil, and season with salt and pepper.",
+          "Toss and serve."
+        ]
+      {
+        "name": "Orange and Apple Salad",
+        "ingredients": [
+          "2 oranges, segmented",
+          "1 red apple, chopped",
+          "1 green apple, chopped",
+          "1/2 cup pomegranate seeds",
+          "2 cups spinach",
+          "Juice of 1 lemon",
+          "2 tbsp olive oil",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "In a large bowl, combine orange segments, apples, pomegranate seeds, and spinach.",
+          "In a small bowl, whisk together lemon juice, olive oil, salt, and pepper.",
+          "Pour dressing over the salad and toss to combine.",
+          "Serve immediately."
+        ]
+      },
+      {
+        "name": "Banana and Spinach Smoothie",
+        "ingredients": [
+          "1 banana, sliced",
+          "1 cup spinach",
+          "1 cup orange juice",
+          "1/2 cup yogurt",
+          "1 tbsp honey"
+        ],
+        "instructions": [
+          "Combine banana, spinach, orange juice, yogurt, and honey in a blender.",
+          "Blend until smooth.",
+          "Serve immediately."
+        ]
+      },
+      {
+        "name": "Lemon Chicken and Potato Bake",
+        "ingredients": [
+          "2 chicken breasts",
+          "4 potatoes, diced",
+          "1 onion, chopped",
+          "1 lemon, sliced",
+          "2 tbsp olive oil",
+          "Salt and pepper to taste",
+          "1 tsp rosemary"
+        ],
+        "instructions": [
+          "Preheat oven to 400°F (200°C).",
+          "In a baking dish, combine diced potatoes, chopped onion, and lemon slices.",
+          "Drizzle with olive oil and season with salt, pepper, and rosemary.",
+          "Place chicken breasts on top of the vegetables.",
+          "Bake for 25-30 minutes or until chicken is cooked through and potatoes are tender."
+        ]
+      },
+      {
+        "name": "Orange and Banana Smoothie",
+        "ingredients": [
+          "1 cup orange juice",
+          "1 banana, sliced",
+          "1/2 cup yogurt",
+          "1 tbsp honey"
+        ],
+        "instructions": [
+          "Combine orange juice, banana, yogurt, and honey in a blender.",
+          "Blend until smooth.",
+          "Serve immediately."
+        ]
+      },
+      {
+        "name": "Lemon Garlic Broccoli",
+        "ingredients": [
+          "2 cups broccoli florets",
+          "2 cloves garlic, minced",
+          "Juice of 1 lemon",
+          "2 tbsp olive oil",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Preheat oven to 375°F (190°C).",
+          "In a baking dish, combine broccoli florets, minced garlic, lemon juice, olive oil, salt, and pepper.",
+          "Bake for 20-25 minutes or until broccoli is tender.",
+          "Serve hot."
+        ]
+      },
+      {
+        "name": "Grilled Chicken and Bell Pepper Wrap",
+        "ingredients": [
+          "1 chicken breast",
+          "1 yellow bell pepper, sliced",
+          "1 red bell pepper, sliced",
+          "1 green bell pepper, sliced",
+          "1/2 cup cherry tomatoes",
+          "2 tbsp olive oil",
+          "Salt and pepper to taste",
+          "4 large tortillas"
+        ],
+        "instructions": [
+          "Grill chicken breast until fully cooked, then slice.",
+          "In a large bowl, combine bell peppers and cherry tomatoes.",
+          "Add grilled chicken slices and toss with olive oil, salt, and pepper.",
+          "Place mixture in tortillas and wrap tightly.",
+          "Serve immediately."
+        ]
+      },
+      {
+        "name": "Pomegranate and Spinach Salad",
+        "ingredients": [
+          "1 cup pomegranate seeds",
+          "2 cups spinach",
+          "1 red apple, chopped",
+          "1 green apple, chopped",
+          "Juice of 1 lemon",
+          "2 tbsp olive oil",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "In a large bowl, combine pomegranate seeds, spinach, and apples.",
+          "In a small bowl, whisk together lemon juice, olive oil, salt, and pepper.",
+          "Pour dressing over the salad and toss to combine.",
+          "Serve immediately."
+        ]
+      }
+    ]
+  }
+  
